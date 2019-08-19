@@ -1,8 +1,7 @@
 ---
 authors:
 - mdlama
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests are in quantitative ecology, open source software development, quantitative biology education, and education gateway development.
 education:
   courses:
   - course: PhD in Mathematics
@@ -13,33 +12,33 @@ education:
     year: 1997
 email: "mdlama@wm.edu"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Open Source Software Development
+- Quantitative Biology Education
+- Mathematical Biology
+name: M. Drew LaMar
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: William and Mary
+  url: "https://www.wm.edu/as/biology/people/faculty/lamar_d.php"
+role: Associate Professor of Biology
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/dphile
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=p_JLuroAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mdlama
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-M. Drew LaMar is an associate professor in the [Department of Biology](https://www.wm.edu/as/biology/index.php) at [William and Mary](https://www.wm.edu/). His current research interests ... He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an [Associate Professor of Biology](https://www.wm.edu/as/biology/index.php) at [William and & Mary](https://www.wm.edu/). My teaching and research are highly interdisciplinary in nature, using techniques and concepts from mathematics, statistics, biology, and computational sciences. Specifically, I teach courses in biostatistics and quantitative biology, and have performed research in quantitative ecology, computational cell biology, and computational neuroscience. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am co-PI and Director of Cyberinfrastructure for the [QUBES virtual center](https://qubeshub.org) (Quantitative Undergraduate Biology Education and Synthesis). This work has ignited an interest and passion in open source software development, quantitative biology education, and development of education gateways.
